@@ -1,2 +1,3 @@
-# python-1403-404
-This repo is for SBU Python Course
+# Python BME Course 1403-404
+
+This repository is created to provide easy access to BME students of SBU to codes and projects of TA class.
