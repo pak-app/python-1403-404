@@ -18,11 +18,10 @@ python /usr/username/folder/script.py # run with full path of the script
 
 ## Sesssion 4: Bonus
 
-1. Do `bonus.pdf` file exercise. Click [here](./session-04/bonus.pdf) to access.
-2. Do the shifting problem(discussed in class) in the opposite direction.
+1. Do the shifting problem(discussed in class) in the opposite direction.
     * Example: `abcdefghijk` → (Two units shifts) → `kjabcdefghi`
 
 * Deadline: **1 week (6/2/1404)**
-* Please send **one .ipynb** file containing **all solutions** (1 & 2) to this Telegram account: `@poorya_a_k`.
+* Please send **one .ipynb** file containing **all solution** (1) to this Telegram account: `@poorya_a_k`.
 
 Good luck
