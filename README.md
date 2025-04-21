@@ -30,4 +30,5 @@ python /usr/username/folder/script.py # run with full path of the script
 * Deadline: **1 week (8/2/1404)**
 
 * Please send all point problems in **one .ipynb** file containing **all solution** to this Telegram account: `@poorya_a_k`.
+
 Good luck
