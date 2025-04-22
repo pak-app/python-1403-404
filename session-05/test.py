@@ -17,7 +17,7 @@ def encryption(message: str, shift: int=3):
             continue
         
         current_letter_index = alphabets.index(letter)
-        encrypted_letter_index = current_letter_index + (shift % len(alphabets))
+        encrypted_letter_index = (current_letter_index + shift) % len(alphabets)
         encrypted_message += alphabets[encrypted_letter_index]
         shift += 1
     
