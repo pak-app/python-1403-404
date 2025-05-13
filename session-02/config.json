@@ -1,19 +1,40 @@
 {
-    "dirName": "ghasem",
+    "dirName": "project",
     "files": [
-        "test1.txt",
-        "test2.txt"
+        package.josn
     ],
     "directories": [
         {
-            "dirName": "modules",
-            "files": [
-                "test3.txt",
-                "test4.txt"
-            ],
+            "dirName": "src",
+            "files": [],
             "directories": [
-                "scripts",
-                "env"
+                {
+                    "dirName": "components",
+                    "files": ["main.py"],
+                    "directories": [
+                        {
+                            "dirName": "toast",
+                            "files": [],
+                            "directories": [
+                                {
+                                    "dirName": "script.conf",
+                                    "files": [],
+                                    "directories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dirName": "pages",
+                    "files": ["index.js"],
+                    "directories": []
+                },
+                {
+                    "dirName": "python",
+                    "files": ["conf.json"],
+                    "directories": []
+                }
             ]
         }
     ]
