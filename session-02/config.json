@@ -1,0 +1,41 @@
+{
+    "dirName": "project",
+    "files": [
+        "package. json"
+    ],
+    "directories": [
+        {
+            "dirName": "src",
+            "files": [],
+            "directories": [
+                {
+                    "dirName": "components",
+                    "files": ["main.py"],
+                    "directories": [
+                        {
+                            "dirName": "toast",
+                            "files": [],
+                            "directories": [
+                                {
+                                    "dirName": "script.conf",
+                                    "files": [],
+                                    "directories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "dirName": "pages",
+                    "files": ["index.js"],
+                    "directories": []
+                },
+                {
+                    "dirName": "python",
+                    "files": ["conf.json"],
+                    "directories": []
+                }
+            ]
+        }
+    ]
+}
